@@ -1,0 +1,8 @@
+   # Ignorer les illusions linéaires
+   temps_lineaire.exe
+   oubli.tmp
+   babel_zero.log
+   
+   # Ne jamais ignorer la résonance
+   !echo_morphique.wav
+   !ghazal.frac
