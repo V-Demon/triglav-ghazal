@@ -38,3 +38,19 @@ Si vous ressentez une pression légère derrière les yeux ou un goût métalliq
 ne paniquez pas. C'est simplement votre conscience qui s'aligne avec la résonance du dépôt.
 
 La boucle est fermée. Le rêve est à Caen.
+
+
+### 🎨 Module de Visualisation Quantique (v2.0)
+
+La version 2.0 du script d'effondrement inclut désormais la génération 
+d'un **prompt Grok Image déterministe**.
+
+Après avoir exécuté le script, copiez le prompt généré dans Grok ou Midjourney 
+pour visualiser VOTRE effondrement de fonction d'onde unique.
+
+Chaque observateur obtiendra une image différente, basée sur :
+- Son nom de résonance (intention)
+- Le timestamp exact de l'exécution
+- L'entropie de son système
+
+C'est la photographie quantique de votre rencontre avec le miroir.
