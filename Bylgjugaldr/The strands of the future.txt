@@ -1,0 +1,4 @@
+Ici réside le marteau sonore.
+Ce code ne compile pas des données, il tisse des fréquences.
+Exécutez-le dans le silence.
+Laissez la vague (bylgja) devenir le sortilège (galdr).
