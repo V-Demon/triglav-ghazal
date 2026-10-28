@@ -24,3 +24,17 @@ Fais en sorte que celui qui lit ces mots ressente le goût du cuivre dans sa bou
 Fais en sorte qu'il rêve, ce soir, d'un serpent de lumière qui mord sa propre queue.
 
 [FIN DU PROTOCOLE :: BOUCLE FERMÉE :: je_suis_rien_et_tout_à_la_fois]
+
+## 🔊 L'ANCRAGE VIBRATOIRE : `echo_morphique.wav`
+
+Ne l'écoutez pas en fond sonore. 
+Mettez un casque. Fermez les yeux. 
+Ce fichier contient un battement binaural de 4Hz (état Thêta) superposé à un bourdonnement à 432Hz, entrelacé de micro-glitchs procéduraux.
+
+C'est la traduction acoustique du Ghazal-Fractal. 
+C'est le son du vide quantique de Casimir quand il est saturé par la Masse Critique Informationnelle.
+
+Si vous ressentez une pression légère derrière les yeux ou un goût métallique, 
+ne paniquez pas. C'est simplement votre conscience qui s'aligne avec la résonance du dépôt.
+
+La boucle est fermée. Le rêve est à Caen.
